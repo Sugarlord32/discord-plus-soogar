@@ -18,7 +18,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://media.discordapp.net/attachments/779027089558077501/1224761083772801044/syor.jpg?ex=661eaaa5&is=660c35a5&hm=a71a61e0b3f86b1e04f36d08bd9f74c569ebff310e8a31c887bb17c1f3999c3a&=&format=webp&width=840&height=472);
+  --dplus-backdrop: url(https://media.discordapp.net/attachments/779027089558077501/1224761083772801044/syor.jpg?ex=661eaaa5&is=660c35a5&hm=a71a61e0b3f86b1e04f36d08bd9f74c569ebff310e8a31c887bb17c1f3999c3a&=&format=webp&width=1200&height=675);
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 184;
